@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Bonnie Bassler, molecular biologist, gives a talk at the TED Conference
   in 2009. Photo courtesy of jurveston on Flickr. CC-BY. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-111-introduction-to-doing-research-in-media-arts-and-sciences-spring-2011/0343dd12afb21b3c685879965b728eaa_mas-111s11-th.jpg
+file: /media/courses/mas-111-introduction-to-doing-research-in-media-arts-and-sciences-spring-2011/0343dd12afb21b3c685879965b728eaa_mas-111s11-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Bonnie Bassler, molecular biologist, gives a talk at the TED Conference
@@ -11,6 +11,8 @@ image_metadata:
   credit: Photo courtesy of jurveston on Flickr. CC-BY.
   image-alt: A woman is giving a presentation in front of a large projector of an
     image of bacteria.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Bonnie Bassler, molecular biologist, gives a talk at the TED Conference in
   2009
