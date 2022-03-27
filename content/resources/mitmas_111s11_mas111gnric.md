@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 04402403-4b86-ec6a-e589-69011540cefe
 resourcetype: Document
 title: Generic powerpoint presentation for MAS111
 uid: 353decbf-9dcd-c88c-9a18-ea6b2557b6fa
