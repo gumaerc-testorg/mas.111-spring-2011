@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides resources to direct class discussions and aid
+  with assignments. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -76,7 +78,7 @@ Intellectual Property (IP)
 *   [Google Patent Search](http://www.google.com/patents)
 *   [World Intellectual Property Organization](http://www.wipo.int/portal/index.html.en)
 *   **Handout**: [US Patent and Trademark Office General Information Concerning Patents](http://www.uspto.gov/patents/resources/general_info_concerning_patents.jsp)
-*   **Handout**: Example patent (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.9MB](http://courses.media.mit.edu/2011spring/mas111/pat5177685.pdf))
+*   **Handout**: Example patent ([PDF - 1.9MB](http://courses.media.mit.edu/2011spring/mas111/pat5177685.pdf))
 
 
 {{< tdclose >}}
@@ -116,7 +118,7 @@ What's "peer review" anyway?
 
 *   [IEEE Conference Search](http://www.ieee.org/conferences_events/index.html)
 *   [ACM Conference Calendar](http://www.acm.org/conferences)
-*   NASA document on how to do technical presentations. Katzoff, S. "Clarity in Technical Reporting." NASA, 1964. ([PDF - 1.6MB]({{< baseurl >}}/resources/mitmas_111s11_read_ses5))
+*   NASA document on how to do technical presentations. Katzoff, S. "Clarity in Technical Reporting." NASA, 1964. ({{% resource_link 3e0247f6-3d44-3761-e213-20b30eee24f9 "PDF - 1.6MB" %}})
 
 
 {{< tdclose >}}
@@ -156,7 +158,7 @@ Demoing and Presenting
 {{< tdopen >}}
 
 
-*   Generic powerpoint presentation for MAS111 ([PDF]({{< baseurl >}}/resources/mitmas_111s11_read_ses5))
+*   Generic powerpoint presentation for MAS111 ({{% resource_link 3e0247f6-3d44-3761-e213-20b30eee24f9 "PDF" %}})
 
 
 {{< tdclose >}}
