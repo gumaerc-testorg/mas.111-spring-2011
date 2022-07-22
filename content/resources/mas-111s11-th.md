@@ -12,6 +12,7 @@ image_metadata:
   image-alt: A woman is giving a presentation in front of a large projector of an
     image of bacteria.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Bonnie Bassler, molecular biologist, gives a talk at the TED Conference in
@@ -19,4 +20,3 @@ title: Bonnie Bassler, molecular biologist, gives a talk at the TED Conference i
 uid: 0343dd12-afb2-1b3c-6858-79965b728eaa
 ---
 Bonnie Bassler, molecular biologist, gives a talk at the TED Conference in 2009. Photo courtesy of jurveston on Flickr. CC-BY. 
-

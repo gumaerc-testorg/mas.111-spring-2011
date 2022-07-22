@@ -5,6 +5,7 @@ file: /courses/mas-111-introduction-to-doing-research-in-media-arts-and-sciences
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Generic powerpoint presentation for MAS111
 uid: 353decbf-9dcd-c88c-9a18-ea6b2557b6fa
 ---
 A generic PowerPoint presentation.
-

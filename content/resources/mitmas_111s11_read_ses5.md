@@ -5,6 +5,7 @@ file: /courses/mas-111-introduction-to-doing-research-in-media-arts-and-sciences
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Clarity in Technical Reporting
 uid: 3e0247f6-3d44-3761-e213-20b30eee24f9
 ---
 NASA document on how to do technical presentations.
-
