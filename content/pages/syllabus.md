@@ -22,7 +22,7 @@ There are no textbooks for this class.
 Description
 -----------
 
-This course is for students doing UROP ([Undergraduate Research Opportunities Program](http://web.mit.edu/urop/)), who are pursuing research projects at the Media Laboratory. We will discuss the areas of research going on in the media lab as well as topics associated with all research: documenting progress, ethical issues, intellectual property issues (like copyright and patents), and giving oral, written, and online presentations of results. A final oral presentation is required. Enrollment limited with preference given to students in the Media Arts and Sciences freshman program.
+This course is for students doing UROP ({{% resource_link "cb1522cb-bdeb-4cb7-a850-a116c6eea201" "Undergraduate Research Opportunities Program" %}}), who are pursuing research projects at the Media Laboratory. We will discuss the areas of research going on in the media lab as well as topics associated with all research: documenting progress, ethical issues, intellectual property issues (like copyright and patents), and giving oral, written, and online presentations of results. A final oral presentation is required. Enrollment limited with preference given to students in the Media Arts and Sciences freshman program.
 
 Calendar
 --------
