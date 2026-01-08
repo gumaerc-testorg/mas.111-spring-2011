@@ -7,10 +7,8 @@ file_size: 9313
 file_type: image/jpeg
 image_metadata:
   caption: Bonnie Bassler, molecular biologist, gives a talk at the TED Conference
-    in 2009. ({{% resource_link "6e72edb8-803e-4816-8acb-6aa3621970c4" "Photo" %}}
-    courtesy of {{% resource_link "5fe88c4c-c8f0-4d0b-84a8-cd4e740aaa81" "jurveston"
-    %}} on Flickr. {{% resource_link "63b495d0-52f4-4879-a3a8-2d3b67c57112" "CC-BY"
-    %}})
+    in 2009. ([Photo](http://www.flickr.com/photos/jurvetson/3433059070/) courtesy
+    of [jurveston](http://www.flickr.com/photos/jurvetson/) on Flickr. [CC-BY](http://creativecommons.org/licenses/by/2.0/))
   credit: Photo courtesy of jurveston on Flickr. CC-BY.
   image-alt: A woman is giving a presentation in front of a large projector of an
     image of bacteria.
